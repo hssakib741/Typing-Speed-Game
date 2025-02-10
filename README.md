@@ -1,3 +1,4 @@
+![Screenshot 2025-02-10 234003](https://github.com/user-attachments/assets/6e03b05d-b6d2-4a76-98f9-00c958ef949a)
 Typing Speed Game
 The Typing Speed Game is a simple and interactive web-based application that helps users test and improve their typing speed. Built using HTML, CSS, and JavaScript, this game is easy to develop, making it an excellent project for beginners and web development enthusiasts.
 
